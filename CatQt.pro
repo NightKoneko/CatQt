@@ -18,6 +18,9 @@ HEADERS += \
 FORMS += \
     mainwindow.ui
 
+RESOURCES += \
+    coolcat.qrc
+
 RC_ICONS = myappico.ico
 
 # Default rules for deployment.
