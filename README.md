@@ -5,5 +5,5 @@
  Run the .exe and it should work 
  (Tested only on newest version of Windows 10, so I don't know if it works on other platforms)
 
-#Requirements
+# Requirements
  Probably just Qt and Qt Creator to compile and build it
